@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am Akshadh N from Kerala, India who is a student pursuing Bachelor's in Computer science engineering, always learning new things, ready for discussions and making new projects etc.
-This repo is my portfolio website which will be online in few days.
+- I am Akshadh N from Kerala, India who is a student pursuing Bachelor's in Computer science engineering, always learning new things, ready for discussions and making new projects etc.<br><br>
+- This repo is my portfolio website which will be online in few days.
 
 - 😄 Pronouns: He/him
 
