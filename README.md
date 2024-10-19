@@ -1,17 +1,21 @@
-### Hi there 👋
-<center>
-[<img src="https://github.com/user-attachments/assets/4050ff1f-bdb4-4bc9-b338-3cf16c30a8ce" alt="akshxdhh" width="500">](https://akshxdhh.github.io/portfolio-website.github.io/)
-</center>
-- I am Akshadh N from Kerala, India who is a student pursuing Bachelor's in Computer science engineering, always learning new things, ready for discussions and making new projects etc.<br>
-- This repo is my portfolio website which will be online in few days.
 
-- 😄 Pronouns: He/him
+<h1 align="center"><b>Hi there </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Im+Akshadh+N..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+- I am Akshadh N from Kerala, India who is a student pursuing Bachelor's in Computer science engineering, always learning new things, ready for discussions and making new projects etc.<br>
+- This repo is my portfolio website which will be online in few days (Click the GIF below).<br><br>
+    [<img src="https://github.com/user-attachments/assets/4050ff1f-bdb4-4bc9-b338-3cf16c30a8ce" alt="akshxdhh" width="450">](https://akshxdhh.github.io/portfolio-website.github.io/)
+
+
 
 ### Programming Languages 🌐
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="24">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="28">](https://www.python.org/)
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="34">](https://www.python.org/)
 
 
 - Learning
