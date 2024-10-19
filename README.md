@@ -7,7 +7,7 @@
 
 - I am Akshadh N from Kerala, India who is a student pursuing Bachelor's in Computer science engineering, always learning new things, ready for discussions and making new projects etc.<br>
 - This repo is my portfolio website which will be online in few days (Click the GIF below).<br><br>
-    [<img src="https://github.com/user-attachments/assets/4050ff1f-bdb4-4bc9-b338-3cf16c30a8ce" alt="akshxdhh" width="450">](https://akshxdhh.github.io/portfolio-website.github.io/)
+    [<img src="https://github.com/user-attachments/assets/4050ff1f-bdb4-4bc9-b338-3cf16c30a8ce" alt="akshxdhh" width="450">](https://akshxdhh.github.io/github-landing/)
 
 
 
